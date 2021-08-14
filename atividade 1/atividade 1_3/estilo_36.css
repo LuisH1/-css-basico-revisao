@@ -1,0 +1,27 @@
+#ty {
+    height: 100px;
+    background-color: red;
+    border: solid green 3px;
+}
+#po{
+    
+    background-color: white;
+    border: solid black 7px;
+}
+#te{
+    background-color: purple;
+    border: solid 9px;
+}
+#qw{
+    background-color: rgb(102, 102, 47);
+    border: solid 12px red;
+}
+a#mar:link{
+    color:green;
+}
+a#lua:link{
+    color: blue;
+}
+a#sol:link{
+    color: yellow;
+}

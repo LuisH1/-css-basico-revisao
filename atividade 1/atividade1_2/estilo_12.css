@@ -1,0 +1,37 @@
+h1 {
+    text-align: right;
+}
+table {
+    margin: auto;
+}
+#red {
+    background-color: royalblue;
+    color: salmon;
+}
+#cell{
+    background-color: sienna;
+    font-weight: bold;
+}
+#verde {
+    background-color: slategrey;
+    color: springgreen;
+}
+#rua{
+    background-color: teal;
+    font-weight: bold;
+}
+#unico{
+    background-color: yellow;
+    color: thistle;
+}
+#casa{
+    background-color: tomato;
+    font-weight: bold;
+}
+#sol{
+    background-color: turquoise;
+    color: brown;    
+}
+span{
+    font-weight: bold;
+}
